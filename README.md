@@ -1,4 +1,4 @@
-Here’s a detailed README file for your Event Manager website:
+
 
 ---
 
@@ -56,9 +56,12 @@ event-manager/
 - **JavaMailSender** – Sends email notifications
 
 ### Frontend:
-- **React.js (or any frontend framework)** – Builds the user interface
-- **Axios** – For making API calls
-- **Bootstrap/Tailwind** – For styling
+-Figma
+🏠 Home Page (Shows upcoming & live events)
+📅 Events Page (Detailed list of all events with registration options)
+🛠️ Admin Dashboard (Create & manage events, send notifications)
+👤 User Dashboard (Registered events, past events, notifications)
+🔑 Login/Register Page (User authentication)
 
 ### Deployment:
 - **AWS EC2/S3** – Hosts the backend & frontend
@@ -89,8 +92,7 @@ npm start
 
 ## 📧 Contact
 
-For any queries, reach out to **[your email/contact details]**.
+For any queries, reach out to **[aryan9.verma09@gmail.com ]**.
 
 ---
 
-This README provides a well-structured overview of your project. Let me know if you want modifications! 🚀
