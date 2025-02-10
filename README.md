@@ -12,8 +12,6 @@ A web-based event management platform for college clubs to create, manage, and p
 - User-Friendly Dashboard: Separate interfaces for admins and students.
 - Event Categories: Supports various types of events like workshops, hackathons, and cultural fests.
 
-## 📂 Project Structure
-
 event-manager/
 │── backend/                # Backend API (Spring Boot)
 │   ├── src/main/java/com/eventmanager/
