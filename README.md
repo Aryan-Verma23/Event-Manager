@@ -14,7 +14,6 @@ A web-based event management platform for college clubs to create, manage, and p
 
 ## 📂 Project Structure
 
---
 event-manager/
 │── backend/                # Backend API (Spring Boot)
 │   ├── src/main/java/com/eventmanager/
@@ -34,7 +33,7 @@ event-manager/
 │   ├── package.json        # Dependencies
 │── figma-design/           # Figma Design Files
 │── README.md               # Project Documentation
---
+
 
 ## 🛠️ Tech Stack
 
